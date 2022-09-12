@@ -1,6 +1,8 @@
 # My personal site
 this site is open source like my MIND.
 
-This is first edif of this file in Github.com
+This is first edit of this file in Github.com
 
-I'm just learning git hub.
+I'm just learning github.
+
+This line is added to understand how GIT PULL works and how we can make pull easier(NOT fetch and merge)
